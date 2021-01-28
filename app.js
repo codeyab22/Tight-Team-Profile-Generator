@@ -13,6 +13,7 @@ function initApp() {
 
 function addMember() {
   inquirer.prompt([{
+  type: "input",
   message: "Enter team member's name",
  name: "name"
     },
@@ -27,10 +28,12 @@ function addMember() {
   name: "role"
     },
     {
+  type: "input",
   message: "Enter team member's id",
   name: "id"
     },
     {
+  type: "input",
   message: "Enter team member's email address",
   name: "email"
     }])
