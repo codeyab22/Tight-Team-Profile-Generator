@@ -12,8 +12,10 @@ My motivation is to make electric change in my careers and learn, multiple  unco
 Another motivation is to build functional website that other clients can see and understand what is going on. 
 
 # Repo and Deployed Website Links
-Here is the repo: https://github.com/codeyab22/Tight-Team-Profile-Generator/
-Check it this website: https://codeyab22.github.io/Tight-Team-Profile-Generator/
+Here is the repo: 
+https://github.com/codeyab22/Tight-Team-Profile-Generator/
+Check it this website:
+https://codeyab22.github.io/Tight-Team-Profile-Generator/
 
 # Install Jest:
 npm i jest-Check if it is working without errors.
