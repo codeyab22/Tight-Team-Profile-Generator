@@ -23,7 +23,6 @@ Once you have in your repo's directory by cloning or pasting, you start ls on th
 Then you use app.js or any name with the ending the js
 # Video of Node App.js 
 Here is the demo video of the prompted questions for the team members to validate their answers
-
 ![image](https://drive.google.com/uc?export=view&id=10DPtHpOhTY1ZpiqNg2MYc2LfptOxVE6A)
 
 
